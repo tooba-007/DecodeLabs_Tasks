@@ -1,0 +1,13 @@
+job_role,skills
+Data Scientist,"Python,SQL,Machine Learning,Data Analysis,Statistics,Data Structures"
+DevOps Engineer,"AWS,Docker,Kubernetes,CI/CD,Linux,Automation,Cloud Computing"
+Backend Developer,"Java,Python,SQL,APIs,Databases,System Design,Data Structures"
+Frontend Developer,"JavaScript,React,CSS,HTML,Web Design,UI/UX"
+Cloud Architect,"AWS,Cloud Computing,Azure,Automation,Networking,Security"
+Machine Learning Engineer,"Python,Machine Learning,TensorFlow,Deep Learning,Data Structures,Statistics"
+Cybersecurity Analyst,"Networking,Security,Linux,Python,Risk Assessment"
+Mobile App Developer,"Java,Kotlin,Swift,Mobile Development,APIs"
+Data Engineer,"Python,SQL,ETL,Data Structures,Cloud Computing,Automation"
+System Administrator,"Linux,Networking,Automation,Security,Scripting"
+Full Stack Developer,"JavaScript,Python,React,SQL,APIs,Web Design,System Design"
+AI Research Engineer,"Python,Machine Learning,Deep Learning,TensorFlow,Statistics,Automation"
